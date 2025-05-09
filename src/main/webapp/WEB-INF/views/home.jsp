@@ -1,7 +1,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+          xmlns:h="http://xmlns.jcp.org/jsf/html"
+          xmlns:f="http://xmlns.jcp.org/jsf/core"
+          xmlns:p="http://primefaces.org/ui">
 <head>
     <meta charset="UTF-8">
     <title>JSP Demo</title>
